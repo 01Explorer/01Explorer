@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ## Hey there, I'm Gabriel Santos! 👋
   
  #### About Me 😁
-- 🔭 I’m currently working as a Flutter Intern at Compass.UOL
 - 🌱 I’m currently learning all the Flutter and Dart beauty
 - 👀 Looking for opportunities to work abroad as a Flutter Developer
 - 🎯 Working to turn people's lives easier through innovation and app development
