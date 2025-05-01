@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ## Hey there, I'm Gabriel Santos! 👋
   
  #### About Me 😁
-- 🌱 I’m currently learning all the Flutter and Dart beauty
-- 👀 Looking for opportunities to work abroad as a Flutter Developer
-- 🎯 Working to turn people's lives easier through innovation and app development
+- 🌱 Backend developer focused on creating powerful and scalable solutions
+- 👀 Looking for opportunities to work as a Backend Engineer (experience primarily with Java and Spring)
+- 🎯 Working to turn people's lives easier through innovation and code engineering
 
 ### My Github Status
 <div>
